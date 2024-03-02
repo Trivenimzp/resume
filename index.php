@@ -8,7 +8,7 @@
 <body>
     <div class="container">
         <div class="row">
-            <img src="triveni.jpg" alt="not images">
+            <img src="../triveni.jpg" alt="not images">
             <h1>Trivenee Kumar Bind</h1>
             <h4>DOB 09/07/2001</h4>
             <p>I'm Web Developer. I have completed 10+ project in php Language.</p>
